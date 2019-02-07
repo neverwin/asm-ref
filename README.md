@@ -3,4 +3,4 @@ assembly reference(Chinese)
 
 ## X86/64
 
-* [x86](x86.md)
+* [8086](8086.md)
